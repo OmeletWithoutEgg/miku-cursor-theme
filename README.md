@@ -10,3 +10,4 @@ Some icons are copied from Breeze cursor theme, one of the default KDE cursor th
 git clone https://github.com/OmeletWithoutEgg/miku-cursor-theme.git
 cp miku-cursor-theme ~/.icons/ -r
 ```
+or put it into the path your desktop environment uses.
